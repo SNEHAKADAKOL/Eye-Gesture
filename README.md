@@ -1,1 +1,1 @@
-# Eye-Gesture
+Eye-Gesture is a Python-based project that uses computer vision to detect and interpret eye gestures. The main goal is to explore hands-free interaction where the computer responds to eye movements or blinks, making it useful for accessibility applications and human-computer interaction (HCI).
